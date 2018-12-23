@@ -1,0 +1,14 @@
+anarchistos-icon-theme (1.1) crowbar; urgency=low
+
+  * Initial Release.
+  * Repackaged for AnarchistOS.
+
+ -- AreYouLoco? <areyouloco@paranoici.org>  Sun, 23 Dec 2018 19:23:08 +0100
+
+
+cbpp-icon-theme (1.0) unstable; urgency=low
+
+  * Initial Release.
+  * Repackaged from faenza-crunchbang-icon-theme with newer Debian standards.
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Wed, 18 Feb 2015 21:31:30 -0600

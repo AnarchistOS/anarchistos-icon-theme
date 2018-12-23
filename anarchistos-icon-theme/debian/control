@@ -1,0 +1,13 @@
+Source: anarchistos-icon-theme
+Section: x11
+Priority: optional
+Maintainer: AreYouLoco? <areyouloco@paranoici.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://www.anarchistos.tk
+
+Package: anarchistos-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Icon theme with stilish style, by Tiheum
+ Default icon themes for use with AnarchistOS.
